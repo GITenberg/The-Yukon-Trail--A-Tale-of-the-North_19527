@@ -1,0 +1,33 @@
+_repo: The-Yukon-Trail--A-Tale-of-the-North_19527
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wolfe, George Ellis
+    gutenberg_agent_id: '34058'
+    url: http://www.gutenberg.org/2009/agents/34058
+covers:
+- cover_type: archival
+  image_path: 19527-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Raine, William MacLeod
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '713'
+    url: http://www.gutenberg.org/2009/agents/713
+    wikipedia: http://en.wikipedia.org/wiki/William_MacLeod_Raine
+description: Novel set in Alaska during the Klondike gold rush.
+gutenberg_issued: '2006-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcsh 'Yukon River Valley (Yukon and Alaska) -- Fiction'
+title: 'The Yukon Trail: A Tale of the North'
+url: http://www.gutenberg.org/ebooks/19527
