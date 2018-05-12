@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/713
     wikipedia: http://en.wikipedia.org/wiki/William_MacLeod_Raine
 description: Novel set in Alaska during the Klondike gold rush.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19527#The-Yukon-Trail--A-Tale-of-the-North
 gutenberg_issued: '2006-10-11'
 gutenberg_type: Text
 identifiers:
